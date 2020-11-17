@@ -11,7 +11,7 @@ You can also go to the github repository for InviteManager **[Click Here](https:
 
 ## Level Bot
 Here is the link to invite Level Bot to your own discord server **[Click Here](https://discord.com/api/oauth2/authorize?client_id=765843009056931850&permissions=8&scope=bot)**.
-You can also go to the github repository for InviteManager **[Click Here](https://github.com/kevify/Level-Bot)**
+You can also go to the github repository for Level Bot **[Click Here](https://github.com/kevify/Level-Bot)**
 
 ## ModMail
 You can't invite the bot but you can host the code yourself here is the github repository for ModMail **[Click Here](https://github.com/kevify/ModMail)**
