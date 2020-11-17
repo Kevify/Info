@@ -18,6 +18,6 @@ You can't invite the bot but you can host the code yourself here is the github r
 
 ## Contacts
 - **[Discord Server](https://discord.gg/aVJfFbh)**
-- **[Contact Me](https://www.reddit.com/user/Kevybtw)**
+- **[Reddit](https://www.reddit.com/user/Kevybtw)**
 - **[Top.gg](https://top.gg/user/292948682884775937)**
 - **[Mail: kevlid.lidstrom@outlook.com](https://outlook.live.com/mail)**
