@@ -22,13 +22,15 @@ You can't invite the bot but you can host the code yourself here is the github r
 - **[Top.gg](https://top.gg/user/292948682884775937)**
 - **[Mail: kevlid.lidstrom@outlook.com](https://outlook.live.com/mail)**
 
+
 # Prefixed Bots
 
-
 ## InviteManager
+* Here is the link to invite InviteManager with prefix ! to your own discord server **[Click Here](https://discord.com/api/oauth2/authorize?client_id=719153033300410378&permissions=8&scope=bot)**
 * Here is the link to invite InviteManager with prefix + to your own discord server **[Click Here]()**
 * Here is the link to invite InviteManager with prefix / to your own discord server **[Click Here]()**
 
 ## Level Bot
+* Here is the link to invite Level Bot with prefix ! to your own discord server **[Click Here](https://discord.com/api/oauth2/authorize?client_id=765843009056931850&permissions=8&scope=bot)**
 * Here is the link to invite Level Bot with prefix + to your own discord server **[Click Here](https://discord.com/api/oauth2/authorize?client_id=779262358483894312&permissions=8&scope=bot)**
-* Here is the link to invite Level Bot with prefix / to your own discord server **[Click Here]()**
+* Here is the link to invite Level Bot with prefix / to your own discord server **[Click Here](https://discord.com/api/oauth2/authorize?client_id=779271400133230642&permissions=8&scope=bot)**
