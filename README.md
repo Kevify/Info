@@ -16,6 +16,9 @@ You can also go to the github repository for Level Bot **[Click Here](https://gi
 ## ModMail
 Contact me if you want help setting up a ModMail bot for your server
 
+## SupportCore
+https://discord.com/api/oauth2/authorize?client_id=783278035695829002&permissions=8&scope=bot
+
 ## Contacts
 - **[Discord Server](https://discord.gg/aVJfFbh)**
 - **[Reddit](https://www.reddit.com/user/Kevybtw)**
